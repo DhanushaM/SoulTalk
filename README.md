@@ -2,4 +2,4 @@
 
  🔗 Live Demo
 
-Check the live app here: https://dhanusham.github.io/Weather-vite/
+Check the live app here: https://dhanusham.github.io/SoulTalk/
